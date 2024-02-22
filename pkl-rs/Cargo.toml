@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+  "crates/pkl-lang",
+  "crates/pkl-lexer"
+]
+
+resolver = "2"
